@@ -61,6 +61,10 @@ hr {
   background-color: #05396B;
 }
 
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
 /* .head-title {
 font-family: 'Allura', cursive;
 font-size: 10rem;
